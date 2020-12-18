@@ -15,7 +15,7 @@ namespace SampleAzureKJ.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "KJ's Page";
+            ViewBag.Message = "KJ's Page V1";
 
             return View();
         }
